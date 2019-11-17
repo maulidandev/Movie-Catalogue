@@ -18,3 +18,4 @@ Aplikasi yang dikembangkan terdiri dari beberapa fitur :
 - List Favorite Movie dan TV Show
 - Settings Daily Reminder
 - Settings Release Today Reminder
+- Widget List Favorite Movie
