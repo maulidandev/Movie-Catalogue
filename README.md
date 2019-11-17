@@ -13,6 +13,7 @@ Aplikasi Android Native yang menampilkan list Movie dan TV Show dari API https:/
 ## Features
 Aplikasi yang dikembangkan terdiri dari beberapa fitur :
 - List Movie dan TV Show
+- Search List Movie dan TV Show
 - Detail Movie dan TV Show
 - Add To Favorite
 - List Favorite Movie dan TV Show
